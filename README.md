@@ -30,4 +30,4 @@ _Checkout, **Tela de produto**, Catálogo, Home com bannner_
 
 ### Imagem Local
 
-! [Logo ArenaGO](img/LOGO%20ARENAGO.png)
+![Logo ArenaGO](img/LOGO%20ARENAGO.png)
