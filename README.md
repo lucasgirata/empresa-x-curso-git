@@ -43,3 +43,5 @@ _Checkout, **Tela de produto**, Catálogo, Home com bannner_
 [https://www.google.com](https://www.google.com)
 
 Colaborador: https://www.github.com/lucasgirata
+
+[![Logo ArenaGo](img/LOGO%20ARENAGO.png)](https://www.google.com)
