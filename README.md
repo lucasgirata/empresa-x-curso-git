@@ -31,3 +31,7 @@ _Checkout, **Tela de produto**, Catálogo, Home com bannner_
 ### Imagem Local
 
 ![Logo ArenaGO](img/LOGO%20ARENAGO.png)
+
+### Imagem externa
+
+![Logo Python](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1280px-Python-logo-notext.svg.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=thumbnail)
