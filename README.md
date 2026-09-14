@@ -41,3 +41,5 @@ _Checkout, **Tela de produto**, Catálogo, Home com bannner_
 [Google](https://www.google.com)
 
 [https://www.google.com](https://www.google.com)
+
+Colaborador: https://www.github.com/lucasgirata
