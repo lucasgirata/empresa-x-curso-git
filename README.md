@@ -27,3 +27,7 @@ _Checkout, **Tela de produto**, Catálogo, Home com bannner_
    3. CSS diferente para grupos
 2. Integração com outros pagamentos
 3. Sistema de bônus em primeira compra
+
+### Imagem Local
+
+! [Logo ArenaGO](img/LOGO%20ARENAGO.png)
