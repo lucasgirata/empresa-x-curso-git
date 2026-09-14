@@ -45,3 +45,11 @@ _Checkout, **Tela de produto**, Catálogo, Home com bannner_
 Colaborador: https://www.github.com/lucasgirata
 
 [![Logo ArenaGo](img/LOGO%20ARENAGO.png)](https://www.google.com)
+
+## Código da função soma
+
+```javascript
+function soma(a, b) {
+  return a + b;
+}
+```
